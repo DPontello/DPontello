@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, me chamo Hugo
 
-<!--
-**DPontello/DPontello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Linguagens: Java, C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Sistemas de  Informação
+Aspiro a área de backend e automação de processos. 
+Gosto de programar e automatizar processos de forma eficiênte. 
+
+📈 Interesses Futuros
+Continuar explorando o universo do DevOps.
+Tenho foco em AI. 
+Trabalhar com AWS ou Google Cloud Platform para deploy de aplicações.
+Criar projetos de automação voltados para a otimização de processos em empresas.
