@@ -40,8 +40,8 @@ Meu objetivo é me tornar um desenvolvedor backend e especialista em automação
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/hugo-pontello/)  
+- [GitHub](https://github.com/DPontello)
 
 ---
 
