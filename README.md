@@ -1,49 +1,42 @@
-# 👋 Olá, me chamo Hugo!
+# 👋 Olá, eu sou o Hugo Pontello!
 
-🎓 *Estudante de Sistemas de Informação*  
-🚀 *Aspirante a Desenvolvedor Backend e Automação de Processos*  
-🌐 *Entusiasta de DevOps, AI, e Cloud Computing*
-
----
-
-### Sobre Mim
-
-Sou apaixonado por programação e por otimizar processos, buscando sempre formas eficientes de automação. Atualmente, estou focado em *desenvolvimento backend* e explorando o universo de *DevOps* e *inteligência artificial*. Meu objetivo é criar soluções práticas e automatizadas que agreguem valor às empresas.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70" width="100%" />
+</p>
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
-
-- *Linguagens:*  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-- *Backend e Automação:*  
-  Tenho experiência no desenvolvimento de aplicações backend, com um foco crescente em automatizar processos empresariais para aumentar a eficiência e reduzir custos.
+### 🎓 Formação Acadêmica
+* 📚 **Sistemas de Informação** na Universidade Federal de Lavras (UFLA).
+* 🚀 **Foco Estratégico:** Desenvolvimento Backend, Engenharia de Dados e Otimização de Performance.
+* ⚙️ **Diferencial:** Experiência com algoritmos complexos e resolução de problemas em larga escala.
 
 ---
 
-### 🌱 Interesses Futuros
+### 🛠️ Stack Tecnológica
 
-- *DevOps:* Continuar explorando e aprimorando habilidades para orquestração e deploy de aplicações em ambientes de produção.
-- *Inteligência Artificial:* Desenvolver soluções que utilizem machine learning e outras técnicas de AI para resolver problemas reais.
-- *Cloud Computing:* Implementar e gerenciar aplicações na *AWS* ou *Google Cloud Platform* para garantir escalabilidade e performance.
-- *Automação de Processos:* Criar projetos que otimizem fluxos e processos dentro de empresas, aumentando a produtividade e reduzindo a margem de erro.
-
----
-
-### 📈 Objetivo Profissional
-
-Meu objetivo é me tornar um desenvolvedor backend e especialista em automação de processos, contribuindo para projetos inovadores e de impacto. Tenho um grande interesse em aplicar conhecimentos de DevOps e Cloud Computing para criar soluções robustas e escaláveis.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend & Core** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Infra & Dados** | ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
 ---
 
-### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/hugo-pontello)  
-- [GitHub](https://github.com/DPontello)
-- [Instagram](https://www.instagram.com/pontellohugo)
+### 🌱 Jornada de Conhecimento e Especialização
+- **Cloud Architecture:** Especializando em arquiteturas serverless e escalabilidade horizontal (AWS/GCP).
+- **IA Avançada:** Implementando modelos de Deep Learning e LLMs para automação inteligente de negócios.
+- **DevOps & SRE:** Focado em automação de infraestrutura como código (IaC) e observabilidade.
+- **Sistemas Distribuídos:** Estudando consistência de dados e microserviços em ambientes de alta criticidade.
 
 ---
 
-🔍 Estou sempre aberto para colaborações e novas oportunidades. Se você compartilha interesses semelhantes, não hesite em me chamar!
+### Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hugo-pontello" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/pontellohugo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+---
+<p align="center"><i>"A tecnologia é o meio; a eficiência é o resultado."</i></p>
