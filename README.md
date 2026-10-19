@@ -12,11 +12,11 @@
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
+| [**Black-Scholes Pricer**](https://github.com/DPontello/black-scholes-pricer) | Precificação e risco de opções (preço, gregas, P&L e stress test), validado por mais de 600 testes | Python, pytest, Hypothesis, mypy, GitHub Actions |
+| [**UAI: Alerta de Incêndio**](https://github.com/zetta-lab-fire-control/fire-control-web) | Sistema de alerta de incêndios no Norte de Minas, projeto do squad no Zetta Lab. Fiz o frontend e a integração com a API e o modelo preditivo | React, Leaflet, Recharts, FastAPI, Docker |
 | [**SigaTCC**](https://github.com/DPontello/SigaTCC) | Gestão de TCCs com API REST, upload de PDF e dashboard de indicadores. Fiz a modelagem, a API, o Docker, os testes e o CI | Python, Django REST, SQL, Vue 3, Docker, GitHub Actions |
 | [**Task Manager API**](https://github.com/DPontello/zettalab-desafio-ii) | API com autenticação JWT, subtarefas e tags, documentada no Swagger. Foi o desafio técnico do Zetta Lab | Node.js, Express, Sequelize, Jest, Swagger, GitHub Actions |
-| [**Laudo Vet Generator**](https://github.com/DPontello/laudo-vet-generator) | Gera laudos veterinários em PDF a partir de um formulário estruturado | PHP, JavaScript, Docker |
 | [**Assistente de Redação Distribuído**](https://github.com/DPontello/writing-assistant) | Agentes de IA em microsserviços para padronizar textos de uma empresa júnior | Python, JavaScript, Docker |
-| [**Jogo dos Oito: BFS vs A\***](https://github.com/DPontello/eight-puzzle-bfs-astar) | Comparação de algoritmos de busca com interface em Tkinter (disciplina de IA) | Python, Jupyter |
 
 ---
 
